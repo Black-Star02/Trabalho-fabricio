@@ -1,0 +1,75 @@
+.menu{
+    border: solid rgb(0, 0, 0) 3px;
+    border-radius: 15px;
+    height: 60px;
+    width: auto;
+    margin-top: 10px;
+    display: flex;
+    background-color:  rgb(7, 7, 92);
+}
+.foto1{
+    border: solid 2px black;
+    border-radius: 15px;
+    height: auto;
+    width: 30%;
+    margin-left: 10px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    display: flexbox; 
+    align-items:center;
+    text-align: center;
+    color: rgba(0, 0, 0, 0);
+    font-size: 20px;
+}
+.foto1:hover{
+    background: linear-gradient(black, white);
+    color: rgb(0, 0, 0);
+}
+.foto2{
+    border: solid 2px black;
+    border-radius: 15px;
+    height: auto;
+    width: 30%;
+    margin-left: 70px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    align-items:center;
+    text-align: center;
+    color: rgba(0, 0, 0, 0);
+    font-size: 20px;
+    display: flexbox; 
+    align-items:center;
+    text-align: center;
+    color: rgba(0, 0, 0, 0);
+    font-size: 20px;
+}
+.foto2:hover{
+    background: linear-gradient(black, rgb(228, 60, 60));
+    color: rgb(0, 0, 0);
+}
+.foto3{
+    border: solid 2px black;
+    border-radius: 15px;
+    height: auto;
+    width: 30%;
+    margin-left: 80px;
+    margin-right: 10px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    align-items:center;
+    text-align: center;
+    color: rgba(0, 0, 0, 0);
+    font-size: 20px;
+}
+.foto3:hover{
+    background: linear-gradient(black, rgb(254, 164, 30));
+    color: rgb(0, 0, 0);
+}
+.foto{
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 50px;
+    height: 300px;
+    width: 400px;
+}
+
